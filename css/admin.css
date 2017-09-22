@@ -1,0 +1,17 @@
+h1{ font-size:28px;}
+h5{ font-size:14px;}
+#content h1 {
+	color: #7E7E7E;
+	font: bold 25px Helvetica, Arial, sans-serif;
+	letter-spacing: -0.05em;
+	line-height: 20px;
+	margin: 10px 0 30px;
+}
+body {
+	background: #DCDDDF ;
+	color: #000;
+	font: 14px Arial;
+	margin: 0 auto;
+	padding: 0;
+	position: relative;
+}
