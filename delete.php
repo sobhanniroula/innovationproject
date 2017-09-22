@@ -12,6 +12,7 @@
 	</head>
 
 <?php
+#Start db connection here
 include('include/db_con.php');
 
 if(isset($_GET['user_id']))
